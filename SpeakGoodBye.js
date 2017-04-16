@@ -14,7 +14,7 @@
 */
 (function(window){
  var byeSpeaker = {};
- var speakWord = "GoodBye ";
+ var speakWord = "Good Bye ";
 
 /* STEP 8: Rewrite the 'speak' function such that it is attached to the
  byeSpeaker object instead of being a standalone function.
